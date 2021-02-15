@@ -49,4 +49,4 @@ as_announce_message "For contact with admin write say !admin" // Announce messag
 
 # :scroll: Changelog:
     - v1.0: First Release.
-    - v2.1: Lost information.
+    - v2.1: Unknown.
