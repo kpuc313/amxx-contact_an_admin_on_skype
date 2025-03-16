@@ -1,6 +1,6 @@
 <h1 align="center">Contact an Admin on Skype v2.1</h1>
 
-<p align="center"><img src="https://github.com/kpuc313/AMXX-Contact_an_Admin_on_Skype/blob/main/preview/logo.png"></p>
+<p align="center"><img src="https://github.com/kpuc313/AMXX-Contact_an_Admin_on_Skype/blob/main/preview.png"></p>
 
 <br />
 
